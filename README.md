@@ -6,32 +6,32 @@ Notez bien que le l'UI ( l'interface utilisateur rendue grâce au CSS ) ne rentr
 
 ## Lancer le projet
 
-Pour lancer l'application il faut d'abord installer les dépendances avec npm : 
+Pour lancer l'application il faut d'abord installer les dépendances avec npm :
 
 `npm i`
 
-Puis lancer le serveur de développement avec : 
+Puis lancer le serveur de développement avec :
 
 `ng serve`
 
 ## Objectifs
 
-* [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice1".
-* [ ] Ajouter ce composant dans le composant "app"
-* [ ] Dans ce composant, mettez en place trois exemples de liaison. un sur un attribut avec [] un autre sur un evement avec () et le dernier avec une interpolation de variable {{ }} ; ( tu peux utiliser le fichier typescript du composant si tu le souhaites ).
-* [ ] Un clic sur le composant "exercice2" doit afficher "click" dans la console.
-* [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice3".
-* [ ] Ajouter ce composant dans le composant "app"
-* [ ] Dans le template de ce composant, mettre deux paragraphe avec comme contenu 'p1' et 'p2'      
-* [ ] Ajouter dans le component un attribut 'status', de type boolean, initialisé à TRUE.
-* [ ] Ajouter dans le component un bouton.
-* [ ] Cliquez sur le bouton doit inverser la valeur de l'attribut 'status'.
-* [ ] Si status est à TRUE, le paragraphe contenant p1 doit être affiché, sinon c'est le paragraphe p2 quoi l'etre.
-* [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice4".
-* [ ] Ajouter ce composant dans le composant "app"
-* [ ] Dans ce composant ajouter un attribut 'texts' de type tableau de chaîne de caractères. Dans cette attribut définir trois chaines de caractères contenant les valeurs 'un', 'deux' et 'trois'.
-* [ ] Utilisez une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
-      
+- [x] Créez, dans le répertoire app, un composants avec le nom : "exerice1".
+- [x] Ajouter ce composant dans le composant "app"
+- [x] Dans ce composant, mettez en place trois exemples de liaison. un sur un attribut avec [] un autre sur un evement avec () et le dernier avec une interpolation de variable {{ }} ; ( tu peux utiliser le fichier typescript du composant si tu le souhaites ).
+- [x] Un clic sur le composant "exercice2" doit afficher "click" dans la console.
+- [x] Créez, dans le répertoire app, un composants avec le nom : "exerice3".
+- [x] Ajouter ce composant dans le composant "app"
+- [x] Dans le template de ce composant, mettre deux paragraphe avec comme contenu 'p1' et 'p2'
+- [x] Ajouter dans le component un attribut 'status', de type boolean, initialisé à TRUE.
+- [x] Ajouter dans le component un bouton.
+- [x] Cliquez sur le bouton doit inverser la valeur de l'attribut 'status'.
+- [x] Si status est à TRUE, le paragraphe contenant p1 doit être affiché, sinon c'est le paragraphe p2 quoi l'etre.
+- [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice4".
+- [ ] Ajouter ce composant dans le composant "app"
+- [ ] Dans ce composant ajouter un attribut 'texts' de type tableau de chaîne de caractères. Dans cette attribut définir trois chaines de caractères contenant les valeurs 'un', 'deux' et 'trois'.
+- [ ] Utilisez une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
+
 ## Avant de finir le projet
 
 Pensez à pusher votre travail avant de cliquer sur 'terminer le projet'.
